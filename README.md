@@ -1,2 +1,2 @@
-# personalrepository
+# Personal Repository
 Personal Repository
